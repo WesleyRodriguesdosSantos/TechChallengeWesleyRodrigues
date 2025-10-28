@@ -24,21 +24,37 @@ Servidor ASGI utilizado para executar a aplicação localmente com suporte a hot
 
 ## 📁 Estrutura de Diretórios
 ├── main.py                  # Ponto de entrada da aplicação
+
 ├── core
+
 │   └── __init__.py          # Importação necessária
+
 │   └── auth.py              # Modulo de autenticação
+
 │   └── crud.py              # Modulo com esquema bcrypt para garantir a segurança das senhas dos usuários
+
 │   └── database.py          # SQLAlchemy com SQLite para persistência de dados
+
 │   └── models.py            # Modelo de usuario(SQLAlchemy)
+
 │   └── schemas.py           # Pydantic Models
+
 ├── routes
+
 │   └── books.py             # Rotas principais da API
+
 │   └── health.py            # Modulo para verifica a saúde da API e conectividade com os dados
+
 │   └──__init__.py           # Importação necessária
+
 ├── requirements.txt         # Dependencias necessárias para o projeto
+
 ├── dashboard.py             # Interface visual
+
 ├── README.md                # Documentação do projeto
+
 ├── usuarios.db              # Armazena os usuarios cadastrados
+
 
 
 # 🛠️ Instalação e Configuração
