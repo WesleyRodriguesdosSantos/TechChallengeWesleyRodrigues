@@ -2,11 +2,24 @@
 # 📚 Tech Challenge - API de Scraping de Livros
 
 
+## 🌐 Link do Deploy
+https://techchallengewesleyrodrigues-5.onrender.com/docs
+
+## 🎥 Link do Vídeo
+https://drive.google.com/file/d/1_RCCTnpAQi_0Ho3D0hUpfsWmQFO5fmnv/view?usp=sharing
+
+## 🧭 Diagrama de Arquitetura
+[Plano Arquitetural - Wesley Rodrigues dos santos-RM368423.docx](https://github.com/user-attachments/files/23224465/Plano.Arquitetural.-.Wesley.Rodrigues.dos.santos-RM368423.docx)
+
+
+
 
 # 📘 Descrição do Projeto
 
 Este projeto se trata de uma API desenvolvida com FastAPI que tem por objetivo realizazr um Web Scraping no site: https://books.toscrape.com , para que possa ser realizados consultas como : listar todos os livros disponíveis, retorna detalhes completos de um livro específico, busca livros por título e/ou categoria, listar todas as categorias de livros disponíveis e verifica status da API e conectividade com os dados.
 Essa aplicação foi desenvolvida como parte de um desafio técnico de pós-graduação em Machine Learning Engineering, para colocarmos em prática os conhecimentos aprendidos referente a integração de dados externos, Web Scraping, boas práticas de arquitetura de software.
+
+
 
 
 ## 🏗️ Arquitetura do Projeto
