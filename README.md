@@ -10,7 +10,7 @@ https://techchallengewesleyrodrigues-5.onrender.com/docs
 ## 🎥 Link do Vídeo
 https://drive.google.com/file/d/1_RCCTnpAQi_0Ho3D0hUpfsWmQFO5fmnv/view?usp=sharing
 
-## 🎓  Link do curso:  Google Cloud Skill Boost
+## 🎓  Link do curso no Google Cloud Skill Boost
 https://www.skills.google/public_profiles/0a833a9b-da3a-4ac8-b1fa-14fc259427a5/badges/19513138
 
 ## 🧭 Diagrama de Arquitetura
