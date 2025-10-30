@@ -16,7 +16,8 @@ https://www.skills.google/public_profiles/0a833a9b-da3a-4ac8-b1fa-14fc259427a5/b
 ## 🧭 Diagrama de Arquitetura
 [Plano Arquitetural - Wesley Rodrigues dos santos-RM368423.docx](https://github.com/user-attachments/files/23224465/Plano.Arquitetural.-.Wesley.Rodrigues.dos.santos-RM368423.docx)
 
-
+## Planilha com logs de todas as chamadas e a base ususarios.db
+[Wesley Rodrigues dos santos-RM368423 - Logs - usuarios.db.xlsx](https://github.com/user-attachments/files/23224949/Wesley.Rodrigues.dos.santos-RM368423.-.Logs.-.usuarios.db.xlsx)
 
 
 # 📚 Tech Challenge - API de Scraping de Livros
